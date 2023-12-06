@@ -1,0 +1,2 @@
+16:08  Error : Unknown column 'A.ST_KERJA' in 'where clause' at query : SELECT COUNT(1) as cntFROM project A WHERE  (A.ST_KERJA != '') 
+16:09  Error : Unknown column 'NAMA' in 'order clause' at query : SELECT P.* FROM project PORDER BY NAMA asc

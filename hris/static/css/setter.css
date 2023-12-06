@@ -1,0 +1,43 @@
+.panel-bt{	
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.panel-default-bt{
+	border-color: #ddd !important;
+}
+
+.panel-body-bt{
+	padding: 15px;
+	border-color: transparent;
+}
+
+.panel-default-bt>.panel-heading{
+	color: #555555;
+	background-color: #f5f5f5;
+	border-color: #dddddd;
+}
+
+hr{
+	border: 0;
+    border-top: 1px solid #eeeeee;
+    margin : 3px 0 ;
+}
+
+.frame {
+	background-color: #ddc;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25) inset, 0 5px 10px 5px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+}
+
+.swal2-title {
+	font-size: 1.5em !important;
+}

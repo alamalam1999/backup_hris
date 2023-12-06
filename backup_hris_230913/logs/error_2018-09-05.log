@@ -1,0 +1,4 @@
+17:28  Error : Incorrect integer value: '' for column 'ORD' at row 1 at query :  INSERT INTO user_module (PARENT_ID,MODULE,ORD) VALUES ('1','PERTANYAAN-INTERVIEW','') 
+17:28  Error : Incorrect integer value: '' for column 'ORD' at row 1 at query :  INSERT INTO user_module (PARENT_ID,MODULE,ORD) VALUES ('1','PERTANYAAN-INTERVIEW','') 
+17:29  Error : Incorrect integer value: '' for column 'ORD' at row 1 at query :  INSERT INTO user_module (PARENT_ID,MODULE,ORD) VALUES ('1','PERTANYAAN-INTERVIEW','') 
+17:29  Error : Incorrect integer value: '' for column 'ORD' at row 1 at query :  INSERT INTO user_module (PARENT_ID,MODULE,ORD) VALUES ('1','PERTANYAAN-INTERVIEW','') 

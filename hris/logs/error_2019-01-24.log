@@ -1,0 +1,1 @@
+22:23  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''8''' at line 1 at query :  SELECT * FROM calon_karyawan C LEFT JOIN lamaran L ON (L.CALON_KARYAWAN_ID=C.CALON_KARYAWAN_ID) WHERE C.CALON_KARYAWAN_ID='8'' 

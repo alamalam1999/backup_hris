@@ -1,0 +1,20 @@
+[07-Jan-2020 12:53:26 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:53:31 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:53:33 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:56:15 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:56:24 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:56:32 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:57:05 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 12:57:25 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 13:09:49 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[07-Jan-2020 13:09:59 Asia/Jakarta] PHP Fatal error:  Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php on line 85
+[12-Aug-2020 09:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php:112
+Stack trace:
+#0 /home/drappsid/public_html/ihris/kpi-karyawan-json.php(39): db_fetch_limit('\n\tSELECT *\n\tFRO...', 50, 0)
+#1 {main}
+  thrown in /home/drappsid/public_html/ihris/app-load.php on line 112
+[12-Aug-2020 09:54:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function FetchObj() on boolean in /home/drappsid/public_html/ihris/app-load.php:112
+Stack trace:
+#0 /home/drappsid/public_html/ihris/kpi-karyawan-json.php(39): db_fetch_limit('\n\tSELECT *\n\tFRO...', 50, 0)
+#1 {main}
+  thrown in /home/drappsid/public_html/ihris/app-load.php on line 112

@@ -1,0 +1,1 @@
+17:43  Error : Unknown column 'TANGGAL' in 'order clause' at query : SELECT E.*, R.PERIODE, K.NAMA, K.NIKFROM pinjaman E LEFT JOIN periode R ON (R.PERIODE_ID=E.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=E.KARYAWAN_ID) WHERE  E.PERIODE_ID = '17'  AND  E.PROJECT_ID = '15' ORDER BY TANGGAL desc

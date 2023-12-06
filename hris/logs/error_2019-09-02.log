@@ -1,0 +1,1 @@
+22:37  Error : Table 'ihris_live040719.histori_status_testing' doesn't exist at query :  SELECT * FROM histori_status_testing WHERE KARYAWAN_ID='119010277' ORDER BY TGL DESC

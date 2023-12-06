@@ -1,0 +1,38 @@
+.content-login,
+.content-register {
+	background-color: #ffffff;
+	/*background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1450' height='640' preserveAspectRatio='none' viewBox='0 0 1450 640'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2153%26quot%3b)' fill='none'%3e%3crect width='1450' height='640' x='0' y='0' fill='url(%23SvgjsLinearGradient2154)'%3e%3c/rect%3e%3cpath d='M 0%2c492 C 96.8%2c434.2 290.4%2c200.2 484%2c203 C 677.6%2c205.8 774.8%2c529.8 968%2c506 C 1161.2%2c482.2 1353.6%2c168.4 1450%2c84L1450 640L0 640z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2153'%3e%3crect width='1450' height='640' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='0%25' y1='50%25' x2='100%25' y2='50%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient2154'%3e%3cstop stop-color='rgba(63%2c 187%2c 192%2c 0.74)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 150%2c 156%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+	background-size: cover;*/
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='649' preserveAspectRatio='none' viewBox='0 0 1440 649'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1217%26quot%3b)' fill='none'%3e%3crect width='1440' height='649' x='0' y='0' fill='rgba(255%2c 165%2c 0%2c 1)'%3e%3c/rect%3e%3cpath d='M 0%2c623 C 48%2c531.2 144%2c190.6 240%2c164 C 336%2c137.4 384%2c476.6 480%2c490 C 576%2c503.4 624%2c201.8 720%2c231 C 816%2c260.2 864%2c654.8 960%2c636 C 1056%2c617.2 1104%2c161.8 1200%2c137 C 1296%2c112.2 1392%2c437 1440%2c512L1440 649L0 649z' fill='rgba(255%2c 197%2c 92%2c 1)'%3e%3c/path%3e%3cpath d='M 0%2c129 C 72%2c227.8 216%2c591.6 360%2c623 C 504%2c654.4 576%2c309.8 720%2c286 C 864%2c262.2 936%2c527.8 1080%2c504 C 1224%2c480.2 1368%2c234.4 1440%2c167L1440 649L0 649z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1217'%3e%3crect width='1440' height='649' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+	background-size: cover;
+}
+
+.card {
+	border-radius: 8px;
+}
+
+.logo-kemeskes {
+	width: 90px;
+}
+
+.logo-bpfk {
+	width: 205px;
+}
+
+.logo-simpel {
+	height: 30px;
+	vertical-align: bottom;
+}
+
+.content-login .bg-primary {
+	background: linear-gradient(to right, #0083B0, #00B4DB);
+}
+
+#form-register-customer .form-group {
+	margin-bottom: 1rem;
+}
+
+.g-recaptcha {
+	transform: scale(0.8);
+	transform-origin: 0 0;
+}

@@ -1,0 +1,1 @@
+16:15  Error : Unknown column 'HISTORI_GAJI' in 'field list' at query :  INSERT INTO histori_karir (KARYAWAN_ID,HISTORI_GAJI,KETERANGAN,TGL) VALUES ('1139','4,500,000','testing','2019-01-01') 

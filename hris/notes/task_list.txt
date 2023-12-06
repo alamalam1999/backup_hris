@@ -1,0 +1,4 @@
+1. Perbaiki tampilan dan struktur folder hadir 
+2. Perbaiki lokasi kadang tidak sesuai
+3. Buat tabel baru dengan nama 'online' untuk menampung semua scan masuk karyawan via web app hadir sebelum disetujui dan masuk tabel absen
+4. Untuk absen online jika menggunakan harcode (15 - 30 minutes) sebagai batas awal dan akhir untuk scan artinya kolom field "begin" dengan "end" tidak dipakai lagi sebagai acuan batas awal & akhir  

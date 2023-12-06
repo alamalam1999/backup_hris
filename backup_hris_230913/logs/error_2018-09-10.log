@@ -1,0 +1,32 @@
+14:07  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:08  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:09  Error : Table 'ihris.pertanyaan' doesn't exist at query : SELECT COUNT(1) as cntFROM pertanyaan
+14:10  Error : Table 'ihris.pertanyaan' doesn't exist at query :  INSERT INTO pertanyaan (PERTANYAAN) VALUES ('KEDISPLINAN') 
+14:10  Error : Table 'ihris.pertanyaan' doesn't exist at query : SELECT COUNT(1) as cntFROM pertanyaan
+14:10  Error : Table 'ihris.pertanyaan' doesn't exist at query :  INSERT INTO pertanyaan (PERTANYAAN) VALUES ('Apakah Anda memiliki rencana melanjutkan pendidikan?') 
+14:13  Error : Table 'ihris.pertanyaan' doesn't exist at query : SELECT COUNT(1) as cntFROM pertanyaan
+14:13  Error : Table 'ihris.pertanyaan' doesn't exist at query :  INSERT INTO pertanyaan (PERTANYAAN) VALUES ('Apakah Anda memiliki rencana melanjutkan pendidikan?') 
+14:13  Error : Table 'ihris.pertanyaan' doesn't exist at query : SELECT COUNT(1) as cntFROM pertanyaan
+14:13  Error : Table 'ihris.pertanyaan' doesn't exist at query :  INSERT INTO pertanyaan (PERTANYAAN) VALUES ('Admin Sales') 
+14:14  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:15  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:16  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:16  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:16  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:19  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:20  Error : Table 'ihris.template' doesn't exist at query : SELECT * FROM template WHERE TEMPLATE_ID='' 
+14:20  Error : Table 'ihris.template' doesn't exist at query : SELECT COUNT(1) as cntFROM template 
+14:20  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:20  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:20  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:20  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:21  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:21  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:21  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:21  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:21  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='234'
+14:22  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:22  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='234'
+14:22  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='234'
+14:22  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='344'
+14:23  Error : Table 'ihris.histori_posisi' doesn't exist at query : SELECT HP.TGL,HP.KETERANGAN,P.POSISIFROM histori_posisi HPLEFT JOIN posisi P ON P.POSISI_ID=HP.POSISI_IDWHERE HP.KARYAWAN_ID='246'

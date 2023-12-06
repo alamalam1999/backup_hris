@@ -1,0 +1,1 @@
+13:59  Error : Unknown column 'EQUIPMENT_ID' in 'where clause' at query :  UPDATE equipment_used SET KARYAWAN_ID='809',TANGGAL_TERIMA='2018-09-21' WHERE EQUIPMENT_ID='3' 

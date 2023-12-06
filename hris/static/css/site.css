@@ -1,0 +1,43 @@
+/* new style 10/08/2020 */
+
+body {
+  font-family: Roboto;
+  /*background-color: #dfdfdf;*/
+}
+
+.navbar-dark {
+  background-image: none;
+  background-color: #ff7518 !important;
+  border-radius: 0 !important;
+  margin-bottom: 0;
+}
+
+.navbar-dark .navbar-nav>li>a {
+  color: #fff !important;
+}
+
+.navbar-dark .navbar-nav>li>a:hover,
+.navbar-dark .navbar-nav>li>a:focus {
+  color: #888 !important;
+}
+
+.navbar-font {
+  color: #ff6666 !important;
+}
+
+.navbar-dark .navbar-nav>.active>a,
+.navbar-dark .navbar-nav>.active>a:hover,
+.navbar-dark .navbar-nav>.active>a:focus {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.front-banner {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='649' preserveAspectRatio='none' viewBox='0 0 1440 649'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1217%26quot%3b)' fill='none'%3e%3crect width='1440' height='649' x='0' y='0' fill='rgba(255%2c 165%2c 0%2c 1)'%3e%3c/rect%3e%3cpath d='M 0%2c623 C 48%2c531.2 144%2c190.6 240%2c164 C 336%2c137.4 384%2c476.6 480%2c490 C 576%2c503.4 624%2c201.8 720%2c231 C 816%2c260.2 864%2c654.8 960%2c636 C 1056%2c617.2 1104%2c161.8 1200%2c137 C 1296%2c112.2 1392%2c437 1440%2c512L1440 649L0 649z' fill='rgba(255%2c 197%2c 92%2c 1)'%3e%3c/path%3e%3cpath d='M 0%2c129 C 72%2c227.8 216%2c591.6 360%2c623 C 504%2c654.4 576%2c309.8 720%2c286 C 864%2c262.2 936%2c527.8 1080%2c504 C 1224%2c480.2 1368%2c234.4 1440%2c167L1440 649L0 649z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1217'%3e%3crect width='1440' height='649' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  height: 540px;
+  background-size: cover;
+}

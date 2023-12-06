@@ -1,0 +1,8 @@
+13:57  Error : Unknown column 'TGL_MASUK' in 'where clause' at query : SELECT COUNT(1) as cntFROM project A WHERE  YEAR(TGL_MASUK) = '1970' 
+13:57  Error : Unknown column 'TGL_MASUK' in 'where clause' at query : SELECT COUNT(1) as cntFROM project A WHERE  YEAR(TGL_MASUK) = '2006' 
+13:57  Error : Unknown column 'TGL_MASUK' in 'where clause' at query : SELECT COUNT(1) as cntFROM project A WHERE  YEAR(TGL_MASUK) = '1970' 
+13:57  Error : Unknown column 'TGL_MASUK' in 'where clause' at query : SELECT COUNT(1) as cntFROM project A WHERE  YEAR(TGL_MASUK) = '2006' 
+14:01  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1970' '' at line 1 at query :  SELECT COUNT(KARYAWAN_ID) AS AKTIF FROM `karyawan` WHERE PROJECT_ID='1' AND ST_KERJA='AKTIF' ' YEAR(TGL_MASUK) = '1970' ' 
+14:04  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1970' '' at line 1 at query :  SELECT COUNT(KARYAWAN_ID) AS PASIF FROM `karyawan` WHERE PROJECT_ID='1' AND ST_KERJA!='AKTIF' 'AND YEAR(TGL_MASUK) = '1970' ' 
+15:07  Error : Every derived table must have its own alias at query :  SELECT SUM(AKTIF) FROM ( SELECT COUNT(KARYAWAN_ID) AS AKTIF FROM `karyawan` WHERE PROJECT_ID='1' AND ST_KERJA='AKTIF' ) 
+15:09  Error : Every derived table must have its own alias at query :  SELECT SUM(KARYAWAN_ID) FROM ( SELECT COUNT(KARYAWAN_ID) AS AKTIF FROM `karyawan` WHERE PROJECT_ID='1' AND ST_KERJA='AKTIF' ) 

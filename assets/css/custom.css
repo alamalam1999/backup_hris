@@ -1,0 +1,85 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.navbar-bg {
+	content: ' ';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 80%;
+	/*background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1100' height='270' preserveAspectRatio='none' viewBox='0 0 1100 270'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1613%26quot%3b)' fill='none'%3e%3crect width='1100' height='270' x='0' y='0' fill='url(%23SvgjsLinearGradient1614)'%3e%3c/rect%3e%3cpath d='M 0%2c239 C 44%2c207.6 132%2c77 220%2c82 C 308%2c87 352%2c266.4 440%2c264 C 528%2c261.6 572%2c95.2 660%2c70 C 748%2c44.8 792%2c125.4 880%2c138 C 968%2c150.6 1056%2c134 1100%2c133L1100 270L0 270z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1613'%3e%3crect width='1100' height='270' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='18.86%25' y1='-76.85%25' x2='81.14%25' y2='176.85%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1614'%3e%3cstop stop-color='rgba(69%2c 165%2c 230%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(28%2c 142%2c 218%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");*/
+	/*background-image: url("assets/images/bg1.svg");*/
+	/*background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1139%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(255%2c 165%2c 0%2c 1)'%3e%3c/rect%3e%3cpath d='M 0%2c105 C 41.2%2c164.2 123.6%2c398.8 206%2c401 C 288.4%2c403.2 329.6%2c105 412%2c116 C 494.4%2c127 535.6%2c428.2 618%2c456 C 700.4%2c483.8 741.6%2c275.8 824%2c255 C 906.4%2c234.2 947.6%2c378.4 1030%2c352 C 1112.4%2c325.6 1154%2c97.6 1236%2c123 C 1318%2c148.4 1399.2%2c407.8 1440%2c479L1440 560L0 560z' fill='rgba(255%2c 197%2c 92%2c 1)'%3e%3c/path%3e%3cpath d='M 0%2c311 C 96%2c267.6 288%2c55.8 480%2c94 C 672%2c132.2 768%2c518 960%2c502 C 1152%2c486 1344%2c111.6 1440%2c14L1440 560L0 560z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1139'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");*/
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='649' preserveAspectRatio='none' viewBox='0 0 1440 649'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1217%26quot%3b)' fill='none'%3e%3crect width='1440' height='649' x='0' y='0' fill='rgba(255%2c 165%2c 0%2c 1)'%3e%3c/rect%3e%3cpath d='M 0%2c623 C 48%2c531.2 144%2c190.6 240%2c164 C 336%2c137.4 384%2c476.6 480%2c490 C 576%2c503.4 624%2c201.8 720%2c231 C 816%2c260.2 864%2c654.8 960%2c636 C 1056%2c617.2 1104%2c161.8 1200%2c137 C 1296%2c112.2 1392%2c437 1440%2c512L1440 649L0 649z' fill='rgba(255%2c 197%2c 92%2c 1)'%3e%3c/path%3e%3cpath d='M 0%2c129 C 72%2c227.8 216%2c591.6 360%2c623 C 504%2c654.4 576%2c309.8 720%2c286 C 864%2c262.2 936%2c527.8 1080%2c504 C 1224%2c480.2 1368%2c234.4 1440%2c167L1440 649L0 649z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1217'%3e%3crect width='1440' height='649' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+	background-size: cover;
+	z-index: -1;
+
+	/*
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1450' height='500' preserveAspectRatio='none' viewBox='0 0 1450 640'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2010%26quot%3b)' fill='none'%3e%3crect width='1450' height='640' x='0' y='0' fill='url(%23SvgjsLinearGradient2011)'%3e%3c/rect%3e%3cpath d='M 0%2c535 C 96.8%2c490.6 290.4%2c312.6 484%2c313 C 677.6%2c313.4 774.8%2c577.6 968%2c537 C 1161.2%2c496.4 1353.6%2c195.4 1450%2c110L1450 640L0 640z' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2010'%3e%3crect width='1450' height='640' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='13.97%25' y1='-31.64%25' x2='86.03%25' y2='131.64%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient2011'%3e%3cstop stop-color='rgba(78%2c 172%2c 58%2c 0.37)' offset='0.01'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 158%2c 144%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+ */
+}
+
+
+.user-avatar {
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover;
+}
+
+.title-header {
+	font-size: 20px !important;
+}
+
+.rounded-curve {
+	border-radius: 5rem !important;
+	height: 75px !important;
+}
+
+.card-curve {
+	width: 58px !important;
+	height: 58px !important;
+	line-height: 65px !important;
+}
+
+.card-header-curve {
+	padding-top: 10px !important;
+}
+
+.badge-curve {
+	position: absolute;
+	top: -10px;
+	right: -5px;
+	padding: 1px;
+	font-size: 15px;
+	border-radius: 50%;
+	background: #C60C29;
+	color: white;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}
+
+.title-header-curve {
+	font-size: 1.25vw !important;
+}
+
+.activity-mod {
+	max-height: 60px;
+}
+
+.activity-detail-mod {
+	box-shadow: none !important;
+}
+
+.form-select-sm {
+	height: calc(1.8125rem + 2px) !important;
+	font-size: 12px !important;
+	padding: .375rem .5rem !important;
+}

@@ -1,0 +1,5 @@
+14:55  Error : Table 'ihris_live040719.dokumen_karyawan' doesn't exist at query :  DELETE FROM dokumen_karyawan WHERE KARYAWAN_ID='666666' 
+15:26  Error : Unknown column 'MASA' in 'order clause' at query : SELECT *FROM dok_karyawan DKWHERE DK.KARYAWAN_ID='666666' ORDER BY MASA ASC
+15:26  Error : Unknown column 'MASA' in 'order clause' at query : SELECT *FROM dok_karyawan DKWHERE DK.KARYAWAN_ID='666666' ORDER BY MASA ASC
+15:31  Error : Table 'ihris_live040719.dokumen_karyawan' doesn't exist at query :  DELETE FROM dokumen_karyawan WHERE KARYAWAN_ID='666666' 
+15:32  Error : Table 'ihris_live040719.dokumen_karyawan' doesn't exist at query :  DELETE FROM dokumen_karyawan WHERE KARYAWAN_ID='666666' 

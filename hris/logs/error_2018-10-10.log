@@ -1,0 +1,1 @@
+14:20  Error : Table 'ihris.tugas' doesn't exist at query : SELECT *FROM tugas AORDER BY TUGAS asc

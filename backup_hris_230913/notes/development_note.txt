@@ -1,0 +1,20 @@
+UPDATE USER MODULE
+------------------------------------
+
+1. JADWAL => add
+
+2. ABSENSI-KARYAWAN => view (new)
+3. ABSENSI-KARYAWAN => import (new)
+4. ABSENSI-KARYAWAN => generate (new)
+
+5. APPROVAL-ABSENSI => view (new)
+6. APPROVAL-ABSENSI => change_status (new)
+
+
+DATABASE UPDATE
+-------------------------------------
+
+1. ALTER TABLE `tabel_absen` CHANGE `FROM_TBL` `FROM_TBL` INT(1) NOT NULL COMMENT '1> absen web, 2> absen mesin, 3> eksepsi';
+2. ALTER TABLE `tabel_absen` CHANGE `ID_ABSEN` `ID_ABSEN` BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+3. ALTER TABLE `eksepsi` CHANGE `PROSES_APPROVED` `PROSES_APPROVED` INT(1) NOT NULL COMMENT '0> created, 1> approve_1 , 2> approve_2 (sementara tidak digunakan)';
+4. ALTER TABLE `tabel_absen` ADD `JENIS_EKSEPSI` VARCHAR(20) NOT NULL AFTER `STATUS`;

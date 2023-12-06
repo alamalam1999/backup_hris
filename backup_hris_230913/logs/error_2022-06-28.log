@@ -1,0 +1,26 @@
+11:08  Error : Unknown column 'K.POSISI_ID' in 'on clause' at query : SELECT  K.*, PO.POSISI, PT.NILAI AS PTKPFROM pph21 KLEFT JOIN project P ON (P.PROJECT_ID=K.PROJECT_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)LEFT JOIN ptkp PT ON (PT.NAMA=K.STATUS_PTKP)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:08  Error : Unknown column 'K.POSISI_ID' in 'on clause' at query : SELECT  K.*, PO.POSISI, PT.NILAI AS PTKPFROM pph21 KLEFT JOIN project P ON (P.PROJECT_ID=K.PROJECT_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)LEFT JOIN ptkp PT ON (PT.NAMA=K.STATUS_PTKP)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:35  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:35  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:35  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:35  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:36  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:36  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.PERIODE AS PERIODE PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+11:36  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'PO.POSISI
+	FROM pph21 PP
+	LEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_I...' at line 1 at query : SELECT  PP.*,P.* PO.POSISIFROM pph21 PPLEFT JOIN periode P ON (P.PERIODE_ID=PP.PERIODE_ID) LEFT JOIN karyawan K ON (K.KARYAWAN_ID=PP.KARYAWAN_ID) LEFT JOIN posisi PO ON (PO.POSISI_ID=K.POSISI_ID)--  WHERE  K.PROJECT_ID = '3' ORDER BY NAMA asc
+15:05  Error : Unknown column 'C.COMPANY_NAME' in 'field list' at query :  SELECT C.COMPANY_ID, C.COMPANY_NAME FROM project PLEFT JOIN company C ON C.COMPANY_ID = P.COMPANY_ID WHERE P.PROJECT_ID='3' 
+15:05  Error : Unknown column 'C.COMPANY_NAME' in 'field list' at query :  SELECT C.COMPANY_ID, C.COMPANY_NAME FROM project PLEFT JOIN company C ON C.COMPANY_ID = P.COMPANY_ID WHERE P.PROJECT_ID='3' 
+15:06  Error : Unknown column 'C.COMPANY_NAME' in 'field list' at query :  SELECT C.COMPANY_ID, C.COMPANY_NAME FROM project PLEFT JOIN company C ON C.COMPANY_ID = P.COMPANY_ID WHERE P.PROJECT_ID='3' 

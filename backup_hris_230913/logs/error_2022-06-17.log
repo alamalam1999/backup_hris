@@ -1,0 +1,1 @@
+11:41  Error : Unknown column 'PO.POSISI' in 'field list' at query : SELECT P.*, K.NAMA, K.NIK, K.TGL_MASUK, K.TIPE_GAJI, K.STATUS_PTKP,PO.POSISIFROM karyawan K LEFT JOIN project P ON (P.PROJECT_ID=K.PROJECT_ID)  WHERE  P.PROJECT_ID = '2' ORDER BY NAMA asc

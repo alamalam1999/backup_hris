@@ -1,0 +1,32 @@
+
+/* Content text formating */
+
+p { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000; line-height: normal; margin: 10px 0 15px; }
+abbr[title] { border-bottom: 1px dotted; }
+b, strong { font-weight: 700; }
+blockquote { border-left: 1px solid #ccc; font-style: italic; margin: 10px 30px 10px 30px; padding: 10px; quotes: none; }
+blockquote p { margin:0; line-height:normal; }
+dfn { font-style: italic; }
+mark { background: none repeat scroll 0 0 #FFFF00; color: #000000; }
+pre, code, kbd, samp { font-family: monospace,monospace; font-size: 1em; }
+pre { border-left: 1px solid #ccc; font-family: "Courier New",Courier,monospace,serif; margin: 0 0 1.5em 2em; padding-left: 2em; white-space: pre-wrap; word-wrap: break-word; }
+q { font-style: italic; quotes: none; }
+q:before, q:after { content: none; }
+small { font-size: 11px; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+figure { margin: 0; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+a { color: #0000EE; outline: medium none; text-decoration: none; }
+a:hover, a:active, a:visited { outline: 0 none; text-decoration: none; }
+
+ul, ol { margin:0; padding:0 0 0 15px; }
+ul li, ol li { list-style-position:inside; line-height:20px; }
+ul li,ol li { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000; }
+
+img { border: 0 none; margin: 0; vertical-align: top; }
+img.imgleft { display:block; float:left; margin:0 10px 10px 0; }
+img.imgright { display:block; float:right; margin:0 0 10px 10px; }
+img.imgcenter { display:block; margin:0 auto 10px; }

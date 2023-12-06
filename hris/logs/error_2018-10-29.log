@@ -1,0 +1,2 @@
+14:38  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1138''' at line 1 at query :  SELECT * FROM karyawan WHERE KARYAWAN_ID=''1138'' 
+14:40  Error : Unknown column 'KARYAWAN_ID' in 'where clause' at query :  UPDATE lamaran SET STATUS_LAMARAN='SELESAI INTERVIEW' WHERE KARYAWAN_ID IN (1138) 

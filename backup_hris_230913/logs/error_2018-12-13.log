@@ -1,0 +1,2 @@
+17:06  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''3''' at line 1 at query :  SELECT * FROM calon_karyawan WHERE CALON_KARYAWAN_ID='3'' 
+17:07  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1''' at line 1 at query :  SELECT * FROM lowongan WHERE LOWONGAN_ID='1'' 

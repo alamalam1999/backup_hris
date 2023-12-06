@@ -1,0 +1,3 @@
+14:14  Error : Table 'drapps_hris.jadwal_level' doesn't exist at query :  SELECT LEVEL_ID,LEVEL FROM jadwal_level ORDER BY LEVEL_ID ASC 
+14:14  Error : Table 'drapps_hris.jadwal_level' doesn't exist at query :  SELECT LEVEL_ID,LEVEL FROM jadwal_level ORDER BY LEVEL_ID ASC 
+19:40  Error : Unknown column 'VALID_UNTIL' in 'order clause' at query : SELECT KARYAWAN_ID,NIK,NAMA,TGL_MASUK,J.*,P.POSISIFROM karyawan ALEFT JOIN jabatan J ON J.JABATAN_ID = A.JABATAN_IDLEFT JOIN posisi P ON P.POSISI_ID = A.POSISI_ID WHERE  NIK <> ''  AND  J.PROJECT_ID = '1' ORDER BY VALID_UNTIL asc

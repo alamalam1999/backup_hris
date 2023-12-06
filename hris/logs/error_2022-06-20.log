@@ -1,0 +1,1 @@
+17:51  Error : Unknown column 'K.ST_AKTIF' in 'where clause' at query : SELECT *FROM karyawan KLEFT JOIN jabatan J ON J.JABATAN_ID=K.JABATAN_IDWHERE K.ST_AKTIF = 'AKTIF'

@@ -1,0 +1,2 @@
+19:08  Error : Unknown column 'STRUKTUR_ID' in 'where clause' at query :  SELECT NAMA FROM karyawan WHERE STRUKTUR_ID='26' 
+19:08  Error : Unknown column 'STRUKTUR_ID' in 'where clause' at query :  SELECT NAMA FROM karyawan WHERE STRUKTUR_ID='26' 

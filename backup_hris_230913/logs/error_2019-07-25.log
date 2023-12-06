@@ -1,0 +1,2 @@
+13:45  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND SHOWING=1 ORDER BY PROJECT ASC' at line 1 at query :  SELECT PROJECT_ID,PROJECT FROM project  AND SHOWING=1 ORDER BY PROJECT ASC 
+13:46  Error : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND SHOWING=1 ORDER BY PROJECT ASC' at line 1 at query :  SELECT PROJECT_ID,PROJECT FROM project  WHERE  AND SHOWING=1 ORDER BY PROJECT ASC 

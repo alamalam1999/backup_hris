@@ -1,0 +1,1 @@
+1. Sebaiknya akses edit shift tidak diberikan, karena melakukan edit pada data shift yang kebetulan dipakai pada jadwal yang sedang berjalan akan mempengaruhi jam jadwal saat proses absensi karyawan baik untuk jenis online maupun offline.

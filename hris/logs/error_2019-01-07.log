@@ -1,0 +1,1 @@
+16:55  Error : Unknown column 'STATUS_KARYAWAN' in 'where clause' at query : SELECT KARYAWAN_ID,NAMA FROM karyawan WHERE STATUS_KARYAWAN = 'AKTIF'
